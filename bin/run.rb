@@ -5,4 +5,3 @@ Sinatra
 Octokit
 Pry
 AwesomePrint
-#http://github.com/michaeldv/awesome_print
